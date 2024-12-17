@@ -1,3 +1,5 @@
+package org.sample;
+
 import java.util.List;
 
 import model.Student;
